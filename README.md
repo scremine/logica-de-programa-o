@@ -1,2 +1,2 @@
-# logica-de-programa-o
+# logica-de-programao 💻 🧠
 "Programas" simples feitos em Portugol. 
